@@ -19,11 +19,11 @@ ________
        * JavaScript
 ________
 ## BDD
-**Behaviour**
+ *      **Behaviour**
 User fills the form on gender and birthday.
-**input**
+*       **input**
 calculates the day to know the Akan name
-**Output**
+*       **Output**
 Gives Akan name according to gender and day on which they were born.
 __________
 ## Support and contact details
