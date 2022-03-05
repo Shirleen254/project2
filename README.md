@@ -1,5 +1,6 @@
 # Akan Name Detector
 #### This is a website where one's birthday is used to calculate the day they were born and then depending on the gender it gives their Akan name
+####Akan name is a Ghanan name given to children according to the day they were born.
 #### By **SHIRLEEN254**
 _________
 ## Setup/Installation Requirements
