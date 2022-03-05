@@ -13,9 +13,9 @@ Invalid when date is more than 31
 Invalid when month is greater than 12
 ________
 ## Technologies Used
-1.HTML
-2.CSS
-3.JavaScript
+   1.HTML
+     2.CSS
+       3.JavaScript
 ________
 ## BDD
 **Behaviour**
