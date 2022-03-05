@@ -18,8 +18,15 @@ ________
 2.CSS
 3.JavaScript
 ________
+## BDD
+**Behaviour**
+User fills the form on gender and birthday.
+**Output**
+Gives Akan name according to gender and day on which they were born.
 ## Support and contact details
 call**+254710100100** 
 email *akandetector@gmail.com*
 ### License
 MIT license
+**copyright**
+(c) 2022
