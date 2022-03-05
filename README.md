@@ -8,7 +8,8 @@ _________
 * wait for the response
 ________
 ## Known Bugs
-Invalid when date is less than 0 and greater than 31
+Invalid when date is less than 0 
+Invalid when date is more than 31
 Invalid when month is greater than 12
 ________
 ## Technologies Used
