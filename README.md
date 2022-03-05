@@ -30,6 +30,8 @@ __________
 * call +254710100100 
 * email *akandetector@gmail.com*
 ________
+## Live link
+Link http://127.0.0.1:5500/
 ### License
 MIT license
  Permission is hereby granted, free of charge, to any person obtaining a copy
