@@ -18,6 +18,12 @@ ________
 2.CSS
 3.JavaScript
 ________
+##BDD
+| Syntax  |
+Akan Name Detector|
+|--------- |------- |----------|
+|Akan Name Detector | How to use it | 
+| On the provided boxes you fill your gender and birthday | You'll be given your Akan name|
 ## Support and contact details
 call**+254710100100** 
 email *akandetector@gmail.com*
