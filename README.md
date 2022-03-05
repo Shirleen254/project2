@@ -26,7 +26,7 @@ calculates the day to know the Akan name
 Gives Akan name according to gender and day on which they were born.
 ________
 ## Support and contact details
-call**+254710100100** 
+call*+254710100100* 
 email *akandetector@gmail.com*
 ________
 ### License
