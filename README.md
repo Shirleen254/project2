@@ -24,7 +24,7 @@ User fills the form on gender and birthday.
 calculates the day to know the Akan name
 **Output**
 Gives Akan name according to gender and day on which they were born.
-________
+__________
 ## Support and contact details
 call*+254710100100* 
 email *akandetector@gmail.com*
