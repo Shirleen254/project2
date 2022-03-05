@@ -4,9 +4,7 @@
 _________
 ## Setup/Installation Requirements
 * Enter your birthday
-* Submit
 * Enter your gender
-* Click
 * wait for the response
 ________
 ## Known Bugs
