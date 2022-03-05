@@ -21,6 +21,8 @@ ________
 ## BDD
 **Behaviour**
 User fills the form on gender and birthday.
+**input**
+calculates the day to know the Akan name
 **Output**
 Gives Akan name according to gender and day on which they were born.
 ## Support and contact details
