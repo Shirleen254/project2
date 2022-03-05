@@ -6,7 +6,7 @@ _________
 ## Setup/Installation Requirements
 * Enter your birthday
 * Enter your gender
-* wait for the response
+* Wait for the response
 ________
 ## Known Bugs
 * Invalid when date is less than 0 
@@ -32,6 +32,7 @@ __________
 ________
 ## Live link
 Link http://127.0.0.1:5500/
+_______
 ### License
 MIT license
  Permission is hereby granted, free of charge, to any person obtaining a copy
